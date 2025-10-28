@@ -24,7 +24,7 @@ from my_package import VERSION, VERSION_SHORT  # noqa: E402
 
 project = "my-package"
 copyright = f"{datetime.today().year}, Viella"
-author = "Allen Institute for Artificial Intelligence"
+author = "Viella"
 version = VERSION_SHORT
 release = VERSION
 
