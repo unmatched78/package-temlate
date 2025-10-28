@@ -13,11 +13,11 @@ pip install my-package
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **my-package** from source, first clone [the repository](https://github.com/unmatched78/package-temlate):
 
 ```bash
-git clone https://github.com/allenai/python-package-template.git
-cd python-package-template
+git clone https://github.com/unmatched78/package-temlate.git
+cd package-temlate
 ```
 
 Then run
