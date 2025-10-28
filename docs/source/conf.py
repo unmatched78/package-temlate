@@ -23,7 +23,7 @@ from my_package import VERSION, VERSION_SHORT  # noqa: E402
 # -- Project information -----------------------------------------------------
 
 project = "my-package"
-copyright = f"{datetime.today().year}, Allen Institute for Artificial Intelligence"
+copyright = f"{datetime.today().year}, Viella"
 author = "Allen Institute for Artificial Intelligence"
 version = VERSION_SHORT
 release = VERSION
