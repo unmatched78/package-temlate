@@ -39,8 +39,8 @@ GITIGNORE_LIST = [
     if line.strip() and not line.startswith("#")
 ]
 
-REPO_NAME_TO_REPLACE = "python-package-template"
-BASE_URL_TO_REPLACE = "https://github.com/allenai/python-package-template"
+REPO_NAME_TO_REPLACE = "package-temlate"
+BASE_URL_TO_REPLACE = "https://github.com/unmatched78/package-temlate"
 
 
 @click.command(
@@ -51,12 +51,12 @@ BASE_URL_TO_REPLACE = "https://github.com/allenai/python-package-template"
 )
 @click.option(
     "--github-org",
-    prompt="GitHub organization or user (e.g. 'allenai')",
+    prompt="GitHub organization or user (e.g. 'viella')",
     help="The name of your GitHub organization or user.",
 )
 @click.option(
     "--github-repo",
-    prompt="GitHub repository (e.g. 'python-package-template')",
+    prompt="GitHub repository (e.g. 'package-temlate')",
     help="The name of your GitHub repository.",
 )
 @click.option(
