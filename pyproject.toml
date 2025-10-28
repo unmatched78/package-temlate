@@ -15,7 +15,7 @@ classifiers = [
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
 authors = [
-    {name = "Allen Institute for Artificial Intelligence", email = "contact@allenai.org"}
+    {name = "Viella", email = ""}
 ]
 requires-python = ">=3.8"
 dependencies = [
@@ -24,9 +24,9 @@ dependencies = [
 license = {file = "LICENSE"}
 
 [project.urls]
-Homepage = "https://github.com/allenai/python-package-template"
-Repository = "https://github.com/allenai/python-package-template"
-Changelog = "https://github.com/allenai/python-package-template/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/unmatched78/package-temlate"
+Repository = "https://github.com/unmatched78/package-temlate"
+Changelog = "https://github.com/unmatched78/package-temlate/blob/main/CHANGELOG.md"
 # Documentation = "https://my-package.readthedocs.io/"
 
 [project.optional-dependencies]
